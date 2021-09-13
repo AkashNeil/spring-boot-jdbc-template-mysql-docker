@@ -1,0 +1,13 @@
+app:
+  datasource:
+    main:
+      driver-class-name:
+      jdbc-url:
+      password: 'password'
+      pool-size: 30
+      username:
+
+server:
+  error:
+    include-binding-errors: always
+    include-message: always
