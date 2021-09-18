@@ -1,0 +1,9 @@
+io/github/seebaware/shark/movie/MovieController.class
+io/github/seebaware/shark/movie/MovieService.class
+io/github/seebaware/shark/movie/Movie.class
+io/github/seebaware/shark/movie/MovieDataAccessService.class
+io/github/seebaware/shark/movie/MovieDao.class
+io/github/seebaware/shark/SharkApplication.class
+io/github/seebaware/shark/config/DatasourceConfig.class
+io/github/seebaware/shark/exception/NotFoundException.class
+io/github/seebaware/shark/actor/Actor.class

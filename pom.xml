@@ -14,7 +14,7 @@
 	<name>shark</name>
 	<description>Spring Boot + JDBC + Connection Pool + Flyway + JDBC Template + MySQL + Docker</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>17</java.version>
 	</properties>
 
 	<dependencies>
@@ -30,9 +30,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.26</version>
 		</dependency>
 
 		<dependency>
