@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-09-19T12:25:22.285+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "class java.sql.Date cannot be cast to class java.lang.CharSequence (java.sql.Date is in module java.sql of loader 'platform'; java.lang.CharSequence is in module java.base of loader 'bootstrap')",
+  "path": "/api/v1/movies"
+}

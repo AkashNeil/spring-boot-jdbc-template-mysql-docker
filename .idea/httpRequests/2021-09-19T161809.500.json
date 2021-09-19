@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-09-19T12:18:09.005+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Text '2015-07-29 00:00:00' could not be parsed, unparsed text found at index 10",
+  "path": "/api/v1/movies"
+}
