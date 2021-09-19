@@ -1,3 +1,21 @@
+GET http://localhost:8080/api/v1/movies/1
+
+<> 2021-09-19T193903.200.json
+
+###
+
+GET http://localhost:8080/api/v1/movies/2
+
+<> 2021-09-19T174332.500.json
+
+###
+
+GET http://localhost:8080/api/v1/movies/1
+
+<> 2021-09-19T174327.500.json
+
+###
+
 GET http://localhost:8080/api/v1/movies
 
 <> 2021-09-19T171922.200.json
