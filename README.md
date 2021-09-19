@@ -1,4 +1,6 @@
-# Shark
+# JDBC Template
+
+Project demonstrating the use of JDBC template.
 
 Technical :
 - Spring Boot
