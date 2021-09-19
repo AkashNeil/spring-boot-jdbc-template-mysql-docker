@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.seebaware</groupId>
-	<artifactId>shark</artifactId>
+	<artifactId>jdbc-template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shark</name>
+	<name>jdbc-template</name>
 	<description>Spring Boot + JDBC + Connection Pool + Flyway + JDBC Template + MySQL + Docker</description>
 	<properties>
 		<java.version>17</java.version>
@@ -49,10 +49,7 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
+
 		</plugins>
 	</build>
 

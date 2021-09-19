@@ -13,8 +13,8 @@ Technical :
 
 Helpful notes :
 - Java, JDBC, and MySQL Types : https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-reference-type-conversions.html
-- dasd
-- asdasd
+- 
+- 
 
 ---
 seebaware.github.io
