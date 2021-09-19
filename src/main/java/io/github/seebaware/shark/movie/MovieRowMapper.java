@@ -22,9 +22,4 @@ public class MovieRowMapper implements RowMapper<Movie> {
 
     }
 
-   /* private LocalDateTime formatDateTime(String releaseDate) {
-        return
-                LocalDateTime.parse(resultSet.getString("releaseDate"));
-    }*/
-
 }
